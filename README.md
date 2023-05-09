@@ -1,23 +1,20 @@
-# Machine-Learning-Google-Land-Mark-Recognition
- Import Library
- Import data
- Perform data checking
- Understand the data
- Reduce the size of the data
- Build Model - Method 1
- Evaluation
- Perfrom Prediction
+# Machine Learning - Google Land Mark Recognition
+Steps
+1. Import Library
+2. Import data
+3. Perform data checking
+4. Understand the data
+5. Data Cleansing
+6. Model Creation
+7. Evaluation
+8. Perfrom Prediction
  
- Package use:
+# 1. Import Library
  - ImageDataGenerator
  - Xception
  - Dropout
  - SeparableConv2D
- - BatchNormalization
- - SeparableConv2D
- - BatchNormalization
- - SeparableConv2D
- - GlobalMaxPooling2D
- - BatchNormalization
+ - BatchNormalization 
+ - GlobalMaxPooling2D 
  - Flatten
  - Dense
